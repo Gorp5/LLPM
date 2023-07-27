@@ -1,0 +1,74 @@
+com/gorp/auxil/foundation/gui/ScrollWidget.java
+ com.gorp.auxil.foundation.gui.ScrollWidget
+com/gorp/auxil/events/CommonEvents.java
+ com.gorp.auxil.events.CommonEvents
+com/gorp/auxil/foundation/networking/PacketBase.java
+ com.gorp.auxil.foundation.networking.PacketBase
+com/gorp/auxil/content/computing/programmer/Card.java
+ com.gorp.auxil.content.computing.programmer.Card
+ com.gorp.auxil.content.computing.programmer.Card$1
+com/gorp/auxil/Lang.java
+ com.gorp.auxil.Lang
+com/gorp/auxil/content/computing/processor/test.java
+ com.gorp.auxil.content.computing.processor.test
+com/gorp/auxil/foundation/networking/TileRequestPacket.java
+ com.gorp.auxil.foundation.networking.TileRequestPacket
+com/gorp/auxil/content/computing/card/DeckItem.java
+ com.gorp.auxil.content.computing.card.DeckItem
+com/gorp/auxil/AllItems.java
+ com.gorp.auxil.AllItems
+com/gorp/auxil/events/ClientEvents.java
+ com.gorp.auxil.events.ClientEvents
+com/gorp/auxil/content/DebugGogglesItem.java
+ com.gorp.auxil.content.DebugGogglesItem
+com/gorp/auxil/AuxilRegistrate.java
+ com.gorp.auxil.AuxilRegistrate
+com/gorp/auxil/content/computing/processor/ProcessorTileEntity.java
+ com.gorp.auxil.content.computing.processor.ProcessorTileEntity
+com/gorp/auxil/content/computing/processor/TestPrograms.java
+ com.gorp.auxil.content.computing.processor.TestPrograms
+com/gorp/auxil/content/computing/card/CardItem.java
+ com.gorp.auxil.content.computing.card.CardItem
+com/gorp/auxil/content/computing/processor/Instruction.java
+ com.gorp.auxil.content.computing.processor.Instruction
+com/gorp/auxil/AllBlocks.java
+ com.gorp.auxil.AllBlocks
+com/gorp/auxil/content/computing/processor/InstructionInterpreter.java
+ com.gorp.auxil.content.computing.processor.InstructionInterpreter
+com/gorp/auxil/Auxiliaries.java
+ com.gorp.auxil.Auxiliaries
+ com.gorp.auxil.Auxiliaries$1
+com/gorp/auxil/foundation/debugger/DebugOverlayRenderer.java
+ com.gorp.auxil.foundation.debugger.DebugOverlayRenderer
+com/gorp/auxil/foundation/capability/IProgramCapability.java
+ com.gorp.auxil.foundation.capability.IProgramCapability
+com/gorp/auxil/AllGuiTextures.java
+ com.gorp.auxil.AllGuiTextures
+com/gorp/auxil/content/computing/programmer/ProgrammerBlock.java
+ com.gorp.auxil.content.computing.programmer.ProgrammerBlock
+com/gorp/auxil/foundation/networking/Channel.java
+ com.gorp.auxil.foundation.networking.Channel
+ com.gorp.auxil.foundation.networking.Channel$1
+ com.gorp.auxil.foundation.networking.Channel$LoadedPacket
+com/gorp/auxil/foundation/gui/ReactiveWidget.java
+ com.gorp.auxil.foundation.gui.ReactiveWidget
+com/gorp/auxil/content/computing/processor/ProcessorBlock.java
+ com.gorp.auxil.content.computing.processor.ProcessorBlock
+ com.gorp.auxil.content.computing.processor.ProcessorPart
+com/gorp/auxil/content/computing/programmer/ProgrammerContainer.java
+ com.gorp.auxil.content.computing.programmer.ProgrammerContainer
+ com.gorp.auxil.content.computing.programmer.ProgrammerContainer$1
+com/gorp/auxil/foundation/capability/Capabilities.java
+ com.gorp.auxil.foundation.capability.Capabilities
+com/gorp/auxil/foundation/capability/DefaultProgramCapability.java
+ com.gorp.auxil.foundation.capability.DefaultProgramCapability
+com/gorp/auxil/AllTileEntities.java
+ com.gorp.auxil.AllTileEntities
+com/gorp/auxil/content/computing/programmer/ProgrammerTileEntity.java
+ com.gorp.auxil.content.computing.programmer.ProgrammerTileEntity
+com/gorp/auxil/content/computing/programmer/InstructionWidget.java
+ com.gorp.auxil.content.computing.programmer.InstructionWidget
+com/gorp/auxil/AllContainerTypes.java
+ com.gorp.auxil.AllContainerTypes
+com/gorp/auxil/content/computing/programmer/ProgrammerContainerScreen.java
+ com.gorp.auxil.content.computing.programmer.ProgrammerContainerScreen

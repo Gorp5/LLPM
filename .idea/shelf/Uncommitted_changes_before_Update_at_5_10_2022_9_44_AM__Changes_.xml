@@ -1,0 +1,189 @@
+<changelist name="Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]" date="1652190258014" recycled="false" toDelete="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Update at 5/10/2022 9:44 AM [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/debug-4.log.gz" />
+    <option name="AFTER_PATH" value="run/logs/debug-4.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/debug-4.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/programmer/ProgrammerContainer.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/programmer/ProgrammerContainer.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/ProgrammerContainer.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/6.8.1/javaCompile/javaCompile.lock" />
+    <option name="AFTER_PATH" value=".gradle/6.8.1/javaCompile/javaCompile.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/javaCompile.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/programmer/ProgrammerContainerScreen.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/programmer/ProgrammerContainerScreen.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/ProgrammerContainerScreen.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/6.8.1/executionHistory/executionHistory.lock" />
+    <option name="AFTER_PATH" value=".gradle/6.8.1/executionHistory/executionHistory.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/executionHistory.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-2.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-2.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/2022-03-22-5.log.gz" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-22-5.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-22-5.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/checksums/checksums.lock" />
+    <option name="AFTER_PATH" value=".gradle/checksums/checksums.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/checksums.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/2022-03-22-2.log.gz" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-22-2.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-22-2.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/debug-3.log.gz" />
+    <option name="AFTER_PATH" value="run/logs/debug-3.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/debug-3.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-5.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-5.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-3.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-3.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="AFTER_PATH" value=".gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/buildOutputCleanup.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-11.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-11.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/debug-5.log.gz" />
+    <option name="AFTER_PATH" value="run/logs/debug-5.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/debug-5.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-9.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-9.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/programmer/ProgrammerContainer$1.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/programmer/ProgrammerContainer$1.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/ProgrammerContainer$1.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/2022-03-22-3.log.gz" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-22-3.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-22-3.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-24-4.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-24-4.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-7.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-7.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/2022-03-22-1.log.gz" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/6.8.1/fileHashes/fileHashes.lock" />
+    <option name="AFTER_PATH" value=".gradle/6.8.1/fileHashes/fileHashes.lock" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/fileHashes.lock" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/debug-2.log.gz" />
+    <option name="AFTER_PATH" value="run/logs/debug-2.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/debug-2.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/checksums/md5-checksums.bin" />
+    <option name="AFTER_PATH" value=".gradle/checksums/md5-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/md5-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/2022-03-22-4.log.gz" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-22-4.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-22-4.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/checksums/sha1-checksums.bin" />
+    <option name="AFTER_PATH" value=".gradle/checksums/sha1-checksums.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/sha1-checksums.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-10.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-10.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/card/DeckItem.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/card/DeckItem.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/DeckItem.class" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-8.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-8.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-4.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-4.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-24-3.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-24-3.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="run/logs/debug-1.log.gz" />
+    <option name="AFTER_PATH" value="run/logs/debug-1.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/debug-1.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/6.8.1/executionHistory/executionHistory.bin" />
+    <option name="AFTER_PATH" value=".gradle/6.8.1/executionHistory/executionHistory.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/executionHistory.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/6.8.1/javaCompile/classAnalysis.bin" />
+    <option name="AFTER_PATH" value=".gradle/6.8.1/javaCompile/classAnalysis.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/classAnalysis.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" />
+    <option name="AFTER_PATH" value="run/logs/2022-03-29-6.log.gz" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/2022-03-29-6.log.gz" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value=".gradle/6.8.1/fileHashes/fileHashes.bin" />
+    <option name="AFTER_PATH" value=".gradle/6.8.1/fileHashes/fileHashes.bin" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/fileHashes.bin" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/processor/ProcessorTileEntity.class" />
+    <option name="AFTER_PATH" value="build/classes/java/main/com/gorp/auxil/content/computing/processor/ProcessorTileEntity.class" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_10_2022_9_44_AM_[Changes]/ProcessorTileEntity.class" />
+  </binary>
+</changelist>

@@ -1,0 +1,103 @@
+---- Minecraft Crash Report ----
+// Surprise! Haha. Well, this is awkward.
+
+Time: 11/3/21 7:02 PM
+Description: Ticking block entity
+
+java.lang.IndexOutOfBoundsException: fromIndex = -127
+	at java.util.SubList.<init>(AbstractList.java:620) ~[?:1.8.0_261] {}
+	at java.util.AbstractList.subList(AbstractList.java:484) ~[?:1.8.0_261] {}
+	at com.gorp.auxil.content.computing.processor.ProcessorTileEntity.tick(ProcessorTileEntity.java:57) ~[?:?] {re:classloading}
+	at net.minecraft.world.World.tickBlockEntities(World.java:491) ~[forge:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:flywheel.mixins.json:TileWorldHookMixin,pl:mixin:A}
+	at net.minecraft.world.server.ServerWorld.tick(ServerWorld.java:371) ~[forge:?] {re:classloading}
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:851) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:787) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.integrated.IntegratedServer.tickServer(IntegratedServer.java:78) ~[forge:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:642) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:232) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261] {}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at java.util.SubList.<init>(AbstractList.java:620) ~[?:1.8.0_261] {}
+	at java.util.AbstractList.subList(AbstractList.java:484) ~[?:1.8.0_261] {}
+	at com.gorp.auxil.content.computing.processor.ProcessorTileEntity.tick(ProcessorTileEntity.java:57) ~[?:?] {re:classloading}
+-- Block entity being ticked --
+Details:
+	Name: auxil:processor // com.gorp.auxil.content.computing.processor.ProcessorTileEntity
+	Block: Block{auxil:processor}[facing=north,part=head,power=0]
+	Block location: World: (335,68,253), Chunk: (at 15,4,13 in 20,15; contains blocks 320,0,240 to 335,255,255), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Block: Block{auxil:processor}[facing=north,part=head,power=0]
+	Block location: World: (335,68,253), Chunk: (at 15,4,13 in 20,15; contains blocks 320,0,240 to 335,255,255), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+Stacktrace:
+	at net.minecraft.world.World.tickBlockEntities(World.java:491) ~[forge:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:flywheel.mixins.json:TileWorldHookMixin,pl:mixin:A}
+	at net.minecraft.world.server.ServerWorld.tick(ServerWorld.java:371) ~[forge:?] {re:classloading}
+
+
+-- Affected level --
+Details:
+	All players: 1 total; [ServerPlayerEntity['Dev'/71, l='ServerLevel[Testing]', x=336.67, y=68.00, z=254.51]]
+	Chunk stats: ServerChunkCache: 2800
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (112,82,-64), Chunk: (at 0,5,0 in 7,-4; contains blocks 112,0,-64 to 127,255,-49), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Level time: 253451 game time, 6000 day time
+	Level name: Testing
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: true
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Known server brands: forge
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.tickChildren(MinecraftServer.java:851) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.tickServer(MinecraftServer.java:787) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.integrated.IntegratedServer.tickServer(IntegratedServer.java:78) ~[forge:?] {re:classloading,pl:runtimedistcleaner:A}
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:642) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:232) ~[forge:?] {re:classloading,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_261] {}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.16.5
+	Minecraft Version ID: 1.16.5
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_261, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 645218656 bytes (615 MB) / 3430940672 bytes (3272 MB) up to 7615283200 bytes (7262 MB)
+	CPUs: 6
+	JVM Flags: 1 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump
+	ModLauncher: 8.0.9+86+master.3cf110c
+	ModLauncher launch target: fmluserdevclient
+	ModLauncher naming: mcp
+	ModLauncher services: 
+		/mixin-0.8.2.jar mixin PLUGINSERVICE 
+		/eventbus-4.0.0.jar eventbus PLUGINSERVICE 
+		/forge-1.16.5-36.2.0_mapped_official_1.16.5-launcher.jar object_holder_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.0_mapped_official_1.16.5-launcher.jar runtime_enum_extender PLUGINSERVICE 
+		/accesstransformers-3.0.1.jar accesstransformer PLUGINSERVICE 
+		/forge-1.16.5-36.2.0_mapped_official_1.16.5-launcher.jar capability_inject_definalize PLUGINSERVICE 
+		/forge-1.16.5-36.2.0_mapped_official_1.16.5-launcher.jar runtimedistcleaner PLUGINSERVICE 
+		/mixin-0.8.2.jar mixin TRANSFORMATIONSERVICE 
+		/forge-1.16.5-36.2.0_mapped_official_1.16.5-launcher.jar fml TRANSFORMATIONSERVICE 
+	FML: 36.2
+	Forge: net.minecraftforge:36.2.0
+	FML Language Providers: 
+		javafml@36.2
+		minecraft@1
+	Mod List: 
+		client-extra.jar                                  |Minecraft                     |minecraft                     |1.16.5              |DONE      |Manifest: a1:d4:5e:04:4f:d3:d6:e0:7b:37:97:cf:77:b0:de:ad:4a:47:ce:8c:96:49:5f:0a:cf:8c:ae:b2:6d:4b:8a:3f
+		forge-1.16.5-36.2.0_mapped_official_1.16.5-recomp.|Forge                         |forge                         |36.2.0              |DONE      |Manifest: NOSIGNATURE
+		Flywheel-1.16-0.2.3.44_mapped_official_1.16.5.jar |Flywheel                      |flywheel                      |1.16-0.2.3.44       |DONE      |Manifest: NOSIGNATURE
+		create-328085-3419412_mapped_official_1.16.5.jar  |Create                        |create                        |v0.3.2d             |DONE      |Manifest: NOSIGNATURE
+		main                                              |Auxiliaries                   |auxil                         |NONE                |DONE      |Manifest: NOSIGNATURE
+		jei-1.16.5-7.7.1.116_mapped_official_1.16.5.jar   |Just Enough Items             |jei                           |7.7.1.116           |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: fa332792-d7b2-4ee2-9836-9909b1fedf1a
+	Player Count: 1 / 8; [ServerPlayerEntity['Dev'/71, l='ServerLevel[Testing]', x=336.67, y=68.00, z=254.51]]
+	Data Packs: vanilla, mod:forge, mod:flywheel, mod:create, mod:jei, mod:auxil
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'forge'

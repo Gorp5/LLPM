@@ -1,0 +1,13 @@
+c29d05962c40bb66d011bbab724ba20fa2a70ac7 assets/auxil/blockstates/processor.json
+041072c3fc0dd09d2c9c9bc6ee12a135d01b9cbe assets/auxil/blockstates/programmer.json
+e22ac2d6be39156aef1ccd7e83033a7386a77b36 assets/auxil/lang/en_ud.json
+e42d41c41f683949a9489f2d2efb490ddce6bd8a assets/auxil/lang/en_us.json
+ac815d882543afb86db6aa46cba26db9e8a160a4 assets/auxil/models/block/processor.json
+528b3d94f30f8edc52659284801b9ae2ffb59f0f assets/auxil/models/block/programmer.json
+e734b86f11f7b1d401edba3b8ae54299406f1ced assets/auxil/models/item/card.json
+dd953b093e7a989c72bae2c435ee3b04a25b4011 assets/auxil/models/item/debug_goggles.json
+6b023f0507824e05117c9e982a477585de9a070b assets/auxil/models/item/deck.json
+8e7b53cf3661910e244c080dbe7b8309e0cfccfd assets/auxil/models/item/processor.json
+ac84ecd99a4414007efb04f56e427b7a9edb817c assets/auxil/models/item/programmer.json
+b21ac5075a0ee927c34c4848af159a6691cbf625 data/auxil/loot_tables/blocks/processor.json
+2c6aba8da1b741708ca70500ea6c170f05d11ff1 data/auxil/loot_tables/blocks/programmer.json

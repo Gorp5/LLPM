@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9a5bfd5f-3f45-4b89-9676-31ca1423e851" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Senior-Research-Project" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="h6oplnrt" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1zBQ0sHsuS2mgfgUVCxagnaaAqW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Potat\Desktop\Coding\Minecraft Modding\Senior-Research-Project\src\generated\resources\assets\auxil\lang" />
+      <recent name="C:\Users\Potat\Desktop\Coding\Minecraft Modding\Senior-Research-Project\src\generated\resources\assets\auxil\models\block" />
+      <recent name="C:\Users\Potat\Desktop\Coding\Minecraft Modding\Senior-Research-Project\src\main\resources\assets\auxil" />
+      <recent name="C:\Users\Potat\Desktop\Coding\Minecraft Modding\Senior-Research-Project\src\main\resources\assets\auxil\textures\block" />
+      <recent name="C:\Users\Potat\Desktop\Coding\Minecraft Modding\Senior-Research-Project\src\main\resources\assets\auxil\models\blocks" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Potat\IdeaProjects\Project\src\main\resources\assets\auxil\textures\gui" />
+      <recent name="C:\Users\Potat\Desktop\Coding\Minecraft Modding\SeniorResearchProject\src\main\resources\assets\auxil\textures\item" />
+      <recent name="C:\Users\Potat\Desktop\Coding\Minecraft Modding\SeniorResearchProject\src\main\resources" />
+      <recent name="C:\Users\Potat\Desktop\Coding\Minecraft Modding\SeniorResearchProject\src\main\resources\assets" />
+      <recent name="C:\Users\Potat\Desktop\Coding\Minecraft Modding\SeniorResearchProject\src\main\resources\META-INF" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.runClient">
+    <configuration default="true" type="Application" factoryName="Application">
+      <selectedOptions>
+        <option name="beforeRunTasks" />
+      </selectedOptions>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.runClient" />
+      <item itemvalue="Application.runData" />
+      <item itemvalue="Application.runServer" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a5bfd5f-3f45-4b89-9676-31ca1423e851" name="Changes" comment="" />
+      <created>1633618781535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633618781535</updated>
+      <workItem from="1633618782764" duration="896000" />
+      <workItem from="1633619804450" duration="2507000" />
+      <workItem from="1633628087238" duration="2839000" />
+      <workItem from="1633704354664" duration="857000" />
+      <workItem from="1634090970029" duration="74000" />
+      <workItem from="1634189329022" duration="741000" />
+      <workItem from="1634265758184" duration="26000" />
+      <workItem from="1634275724264" duration="86000" />
+      <workItem from="1634331327543" duration="52000" />
+      <workItem from="1634331436083" duration="7000" />
+      <workItem from="1634654373327" duration="13764000" />
+      <workItem from="1634677495655" duration="191000" />
+      <workItem from="1634677705773" duration="78000" />
+      <workItem from="1634677798923" duration="11475000" />
+      <workItem from="1634746444312" duration="31135000" />
+      <workItem from="1634913476037" duration="5067000" />
+      <workItem from="1634959883082" duration="1317000" />
+      <workItem from="1635013043478" duration="604000" />
+      <workItem from="1635131600943" duration="3103000" />
+      <workItem from="1635212984668" duration="37000" />
+      <workItem from="1635258606531" duration="776000" />
+      <workItem from="1635349254473" duration="611000" />
+      <workItem from="1635426972119" duration="5180000" />
+      <workItem from="1635536253771" duration="703000" />
+      <workItem from="1635895054176" duration="5117000" />
+      <workItem from="1635949219806" duration="13595000" />
+      <workItem from="1635995379238" duration="1464000" />
+      <workItem from="1636034949361" duration="6424000" />
+      <workItem from="1636049422898" duration="2692000" />
+      <workItem from="1636221112882" duration="2645000" />
+      <workItem from="1636381439141" duration="2967000" />
+      <workItem from="1636470690638" duration="1231000" />
+      <workItem from="1636642343220" duration="8374000" />
+      <workItem from="1637019998678" duration="38444000" />
+      <workItem from="1637170083592" duration="28068000" />
+      <workItem from="1638131196724" duration="43000" />
+      <workItem from="1638458885806" duration="5101000" />
+      <workItem from="1638805420166" duration="6187000" />
+      <workItem from="1638855350050" duration="4605000" />
+      <workItem from="1638978406036" duration="90000" />
+      <workItem from="1638978580270" duration="3202000" />
+      <workItem from="1639062725022" duration="6224000" />
+      <workItem from="1639274627197" duration="9545000" />
+      <workItem from="1639408281570" duration="2977000" />
+      <workItem from="1639424735681" duration="613000" />
+      <workItem from="1639436020884" duration="17423000" />
+      <workItem from="1639492734640" duration="2157000" />
+      <workItem from="1639498951740" duration="8159000" />
+      <workItem from="1640198768628" duration="110000" />
+      <workItem from="1640994190564" duration="1665000" />
+      <workItem from="1641099257470" duration="7411000" />
+      <workItem from="1641149137978" duration="2777000" />
+      <workItem from="1641154611445" duration="7417000" />
+      <workItem from="1641773971576" duration="2761000" />
+      <workItem from="1641821864142" duration="4003000" />
+      <workItem from="1641914765302" duration="4317000" />
+      <workItem from="1642081248816" duration="5887000" />
+      <workItem from="1642519295307" duration="1368000" />
+      <workItem from="1643124148913" duration="2434000" />
+      <workItem from="1643126633957" duration="3823000" />
+      <workItem from="1643244224632" duration="20013000" />
+      <workItem from="1643641576779" duration="8337000" />
+      <workItem from="1643902812962" duration="1542000" />
+      <workItem from="1644329772324" duration="3580000" />
+      <workItem from="1644506569050" duration="4306000" />
+      <workItem from="1644851298346" duration="2492000" />
+      <workItem from="1644938416793" duration="5043000" />
+      <workItem from="1645107216820" duration="6569000" />
+      <workItem from="1645543195406" duration="5743000" />
+      <workItem from="1645638104315" duration="21000" />
+      <workItem from="1645714255692" duration="6469000" />
+      <workItem from="1646063050520" duration="336000" />
+      <workItem from="1646148949692" duration="4478000" />
+      <workItem from="1646318240815" duration="373000" />
+      <workItem from="1646319015486" duration="1194000" />
+      <workItem from="1646665837093" duration="2283000" />
+      <workItem from="1646753477749" duration="4561000" />
+      <workItem from="1646925727223" duration="5545000" />
+      <workItem from="1647267223570" duration="2191000" />
+      <workItem from="1647354479501" duration="158000" />
+      <workItem from="1647356597217" duration="3353000" />
+      <workItem from="1647525150182" duration="4765000" />
+      <workItem from="1647871921181" duration="2344000" />
+      <workItem from="1647958964489" duration="3506000" />
+      <workItem from="1651793875446" duration="2447000" />
+      <workItem from="1651798304592" duration="15281000" />
+      <workItem from="1651897622789" duration="662000" />
+      <workItem from="1651967556121" duration="2179000" />
+      <workItem from="1652144072822" duration="422000" />
+      <workItem from="1652147411883" duration="4629000" />
+      <workItem from="1690490585853" duration="588000" />
+    </task>
+    <task id="LOCAL-00001" summary="Card size can be changed in Programmer Gui">
+      <created>1643126907299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643126907299</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fix bug">
+      <created>1643128765909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643128765909</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Fixed Instruction Bugs">
+      <created>1643297104646</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643297104646</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Gui fixes and streamlines">
+      <created>1644943824537</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644943824537</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Gui Color Coding">
+      <created>1645717890266</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645717890266</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Removed Create dependency from multiple key classes.">
+      <created>1646928482253</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1646928482253</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Removed Create dependency all classes save screen related classes">
+      <created>1647529572282</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1647529572282</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Final touches">
+      <created>1652153802015</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1652153802015</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Final Bug Fixes">
+      <created>1652368308613</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1652368308613</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Final Changes">
+      <created>1690491106902</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1690491106902</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Card size can be changed in Programmer Gui" />
+    <MESSAGE value="Fix bug" />
+    <MESSAGE value="Fixed Instruction Bugs" />
+    <MESSAGE value="Gui fixes and streamlines" />
+    <MESSAGE value="Gui Color Coding" />
+    <MESSAGE value="Removed Create dependency from multiple key classes." />
+    <MESSAGE value="Removed Create dependency all classes save screen related classes" />
+    <MESSAGE value="Fixed bugs and updated stuff" />
+    <MESSAGE value="Final touches" />
+    <MESSAGE value="Final Bug Fixes" />
+    <MESSAGE value="Final Changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final Changes" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="net.minecraft.crash.ReportedException" package="net.minecraft.crash" />
+          <option name="timeStamp" value="175" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="com.gorp.auxil.foundation.capability.DefaultProgramCapability" memberName="PROGRAM_COUNTER" />
+        <PinnedItemInfo parentTag="com.gorp.auxil.foundation.capability.DefaultProgramCapability" memberName="ROM" />
+        <PinnedItemInfo parentTag="javafx.util.Pair" memberName="value" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="code" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

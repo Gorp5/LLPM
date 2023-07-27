@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "auxil:block/processor"
+    },
+    "facing=south": {
+      "model": "auxil:block/processor",
+      "y": 180
+    },
+    "facing=east": {
+      "model": "auxil:block/processor",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "auxil:block/processor",
+      "y": 90
+    }
+  }
+}

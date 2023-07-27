@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "com.gorp.auxil.foundation.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "auxil.refmap.json",
+  "mixins": [
+  ],
+  "minVersion": "0.8"
+}
